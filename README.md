@@ -19,7 +19,7 @@ some necessary packages needs to be istalled which can be accompalished by using
 					2. 'numpy' ->  To work with arrays. 
 					3. 'matplotlib' -> To generate histograms.
 					4. 'warnings' -> To remove the warning messages. 
-				  5. 'pickel' -> To handle serialization.
+				        5. 'pickel' -> To handle serialization.
 					6. 'tabulate' -> To generate tables in the output. 
 					7. 'seaborn' -> To generate count plot. 
 					8. 'SDV' -> To use the functions that are generating & evaluating synthetic data.
